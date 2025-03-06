@@ -1,5 +1,5 @@
 function Home(){
-    return "eu amo você ! Voce vai ficar sem falar comigo até quando?"
+    return "dominio registrado com sucesso."
 }
 
 export default Home;
